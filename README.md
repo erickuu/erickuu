@@ -26,7 +26,7 @@
     </div>
     
 <p>
-Erick con 19 años es un <strong>Desarrollador Backend</strong> le fascina la tecnologia, quiere poder desarrollar la logica de diferentes plataformas y poder comunicar de manera efectiva su trabajo, a traves de diferentes tecnologias y experiencia acumulada, actualmente se dedica al desarrollo backend, en algun momento piensa ingresar al desarrollo de malware y analisis del mismo, ha aprendido diferentes herramientas y tencologias a lo largo del tiempo : NodeJS, Javascript, PHP, SCSS, BOOTSTRAP,TAILWINDCSS,SQL.
+Es un <strong>Desarrollador Backend</strong> le fascina la tecnologia, quiere poder desarrollar la logica de diferentes plataformas y poder comunicar de manera efectiva su trabajo, a traves de diferentes tecnologias y experiencia acumulada, actualmente se dedica al desarrollo backend y se encuentra en Colombia 🇨🇴 , en algun momento piensa ingresar al mundo del hacking , ha aprendido diferentes herramientas y tencologias a lo largo del tiempo : NodeJS, Javascript, PHP, SCSS, BOOTSTRAP,TAILWINDCSS,SQL.
 </p>    
 <div id="tools">
 <h2>Que es el Desarrollo Backend</h2>
@@ -47,8 +47,15 @@ El desarrollador backend se encarga de la logica detras de una aplicacion, plata
 <h1>Estadisticas</h1>
 </div>
 https://github-readme-stats.vercel.app/api/top-langs/?username=erickuu
-
+<p>
 Espero tengas un buen dia ... 🙏
-Biografia hecha por : Erick Alejandro Graterol 
+</p>
+<p>
+De Erick Alejandro Graterol 
+</p>
+<p>
 Con 💛 Para el 🌎
+</p>
+
+
 
