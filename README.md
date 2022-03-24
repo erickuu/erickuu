@@ -21,8 +21,8 @@
 
   <div id="content" align="left">
     <h2>Erick Biografia</h2>
-    <div align="center" style="border-radiues:70%">
-     <img src="https://i.imgur.com/POrRrgK.jpg" align="center" width="350px" >
+    <div align="center" style="border-radius:70%">
+     <img src="https://i.imgur.com/POrRrgK.jpg" align="center" width="350px"  height="180px">
     </div>
     
 <p>
