@@ -21,10 +21,6 @@
 
   <div id="content" align="left">
     <h2>Erick Biografia</h2>
-    <div align="left" style="border-radius:200px">
-     <img src="https://i.imgur.com/POrRrgK.jpg" align="center" width="190px"  height="240px">
-    </div>
-    
 <p>
 Es un <strong>Desarrollador Backend</strong> le fascina la tecnologia, desarrollar la logica de diferentes plataformas es una gran aspiracion, a traves de diferentes tecnologias y experiencia acumulada comunica su trabajo, actualmente se dedica al desarrollo backend y se encuentra en Colombia 🇨🇴 , en algun momento piensa ingresar al mundo del hacking, a aprendido diferentes herramientas y tencologias a lo largo del tiempo : NodeJS, Javascript, PHP, SCSS, BOOTSTRAP,TAILWINDCSS,SQL.
 </p>    
